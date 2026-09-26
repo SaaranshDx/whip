@@ -1,2 +1,2 @@
 # whip
-the most minimalist new tab 
+a concerningly opinionated new tab ui (alpha)
