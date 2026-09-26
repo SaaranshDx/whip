@@ -6,5 +6,6 @@ const RANDOM_HEADING = [
 
 const heading = document.getElementById("heading");
 
-// 2. Change the text content
 heading.textContent = RANDOM_HEADING[Math.floor(Math.random() * RANDOM_HEADING.length)];
+
+document.body.style.backgroundColor = "#ff5733";
